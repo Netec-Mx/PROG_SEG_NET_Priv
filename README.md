@@ -18,7 +18,7 @@ Cada carpeta de capítulo incluye:
 ## 🗂️ Contenido por capítulos
 
 - **Capítulo 1.**
-  - [Ejemplo inseguro](../CAPITULO1/01.-EJEMPLO_INSEGURO_CAP1/README.md)
+  - [Ejemplo inseguro](./CAPITULO1/01.-EJEMPLO_INSEGURO_CAP1/README.md)
   - [Ejemplo seguro.](./CAPITULO_1/02.-EJEMPLO_SEGURO_CAP1/README.md)
 - [CAPITULO 2: Capítulo 2: Levantamiento de Requisitos de Seguridad](./CAPITULO 2)
 - [CAPITULO 3: Capítulo 3: Diseño y Arquitectura Segura de Aplicaciones](./CAPITULO 3)
