@@ -51,6 +51,8 @@ Al finalizar esta práctica, serás capaz de:
 - Tener instalado el SDK de .NET 8.
 - Contar con un cliente HTTP (Postman o similar).
 
+   > ⚠️ ***Importante:** Revisa las notas del capítulo en el siguiente [enlace](./CAPITULO1/01.-EJEMPLO_INSEGURO_CAP1/NOTAS.md).
+
 ## Instrucciones
 
 1. Abre una terminal en la raíz del proyecto.
