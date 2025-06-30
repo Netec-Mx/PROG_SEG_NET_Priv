@@ -51,7 +51,7 @@ Al finalizar esta práctica, serás capaz de:
 - Tener instalado el SDK de .NET 8.
 - Contar con un cliente HTTP (Postman o similar).
 
-   > ⚠️ ***Importante:** Revisa las notas del capítulo en el siguiente [enlace](./CAPITULO1/01.-EJEMPLO_INSEGURO_CAP1/NOTAS.md).
+   > ⚠️ ***Importante:** Revisa las notas del capítulo en el siguiente [enlace](https://netec-mx.github.io/PROG_SEG_NET_Priv/CAPITULO1/01.-EJEMPLO_INSEGURO_CAP1/NOTAS.html)*.
 
 ## Instrucciones
 
