@@ -65,8 +65,6 @@ git clone <URL_DEL_REPOSITORIO>
 Revisa **tanto el ejemplo inseguro como el seguro** para comprender en profundidad los riesgos comunes y cómo mitigarlos aplicando buenas prácticas de desarrollo seguro con .NET.
 
 ---
-
----
 ## 📬 **Contacto y más información**
 
 Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
